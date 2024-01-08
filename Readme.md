@@ -118,6 +118,7 @@ Email example
 
 ---
 
-# References:
+# 📚 References
+If you want to learn...
 * [vanna-ai](https://github.com/vanna-ai/vanna)
 * [streamlit](https://www.streamlit.io/)
