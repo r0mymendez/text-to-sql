@@ -68,9 +68,6 @@ To train your own model follow the following steps:
 
 ![](img/ecommerce_database.png)
 
-# Reference:
-* https://github.com/vanna-ai/vanna
-
 ---
 
 # 💬 Streamlit Chatbot
@@ -127,3 +124,9 @@ Email example
 <br>
 [![Video Preview](img/chatbot-3.png)](https://youtu.be/V08FCQMr8NE)
 
+
+---
+
+# References:
+* [vanna-ai](https://github.com/vanna-ai/vanna)
+* [streamlit](https://www.streamlit.io/)
