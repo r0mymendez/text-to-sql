@@ -17,11 +17,8 @@
 The implementation of Text-to-SQL can be achieved through the use of [Vanna.AI](https://vanna.ai/), an open-source Python library that allows the training of an RAG model with queries, DDL, and documentation from a database. Subsequently, the tool can answer questions in natural language, provide explanations for SQL queries, connect to the database, and return a DataFrame with the results or generate Plotly graphs.
 
 <br>
-<center>
 
-![](img/Text-to-sql.png) 
-
-</center>
+![](https://raw.githubusercontent.com/r0mymendez/text-to-sql/main/img/Text-to-SQL.png)
 
 
 ---
