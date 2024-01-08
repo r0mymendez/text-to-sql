@@ -3,12 +3,12 @@
 # ✨ What is Generative AI?
 **`Generative AI`**  refers to a category of artificial intelligence systems that have the capability to generate new and original content, such as images, text, or other forms of data.
 
+---
 
 # 🧪 What is LLMs Models?
 **Large Language Models (LLMs)** are a complex deep learning models trained on extensive datasets to comprehend and generate natural language text. These models utilize a transformer architecture, incorporating an encoder to extract nuanced meanings from input text sequences and a decoder to understand intricate relationships between words and phrases. The training process involves millions of data inputs, foundational for creating millions of hyperparameters that fine-tune the model's behavior. The significant computational demands during training are efficiently handled by Graphics Processing Units (GPUs), enabling accelerated processing and enhancing the model's proficiency in generating contextually rich and meaningful text.
 
-<br>
-<br>
+---
 
 # 🤖 Text-to-SQL & Vanna.ai
 
@@ -26,9 +26,6 @@ The implementation of Text-to-SQL can be achieved through the use of [Vanna.AI](
 
 ---
 
-<br>
-<br>
-
 ## Vanna.AI: Output Possibilities
 
 The following are the possible outputs that can be generated with Vanna methods, facilitating diverse ways of interacting with the database using natural language.
@@ -44,9 +41,6 @@ The following are the possible outputs that can be generated with Vanna methods,
 * **🔍 Explanations queries**: Vanna.AI can provide explanations for the generated SQL queries. These explanations can help users understand how their natural language question is interpreted into an SQL query.
 
 ---
-
-<br>
-<br>
 
 ## Vanna.AI: Features
 
