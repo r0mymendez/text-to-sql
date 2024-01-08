@@ -79,7 +79,7 @@ In this chatbot application, you can pose questions related to the e-commerce da
 ### 1️⃣. Secrets File Setup 
 Create a file named secrets.toml in the .streamlit folder with the following content. Replace the values for key with your registered email and model_name with the name of your model created on https://vanna.ai/.
 
-`📄 secrets.toml`
+`📄 scr\.streamlit\secrets.toml`
 ```toml
 [vanna]
 key = "your_email@mail.com"
